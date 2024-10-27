@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">tictactoegame</string>
+    <string name="heading">Welcome to TIC TAC TOE</string>
+    <string name="background">main grid</string>
+    <string name="columns">image columns</string>
+    <string name="RESET">RESET</string>
+    <string name="x_turns">x turns</string>
+    <string name="x_and_o">images</string>
+
+</resources>
